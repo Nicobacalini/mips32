@@ -5,7 +5,7 @@
 ![Simulator](https://img.shields.io/badge/Simulator-MARS%2FSPIM-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-Este repositorio contiene la colección completa de trabajos prácticos, ejercicios complementarios, modelos de exámenes finales y el trabajo práctico integrador final desarrollados en lenguaje ensamblador **MIPS 32** para la asignatura **Arquitectura de Computadoras I** de la carrera Analista en Sistemas.
+Este repositorio contiene la colección completa de trabajos prácticos, ejercicios complementarios, modelos de exámenes finales y el trabajo práctico integrador final desarrollados en lenguaje ensamblador **MIPS 32** para la asignatura **Arquitectura de Computadoras**.
 
 ---
 

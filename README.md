@@ -1,4 +1,4 @@
-# Arquitectura de Computadoras I - Ensamblador MIPS 32
+# Arquitectura de Computadoras - Ensamblador MIPS 32
 
 ![MIPS32 Architecture](https://img.shields.io/badge/Architecture-MIPS32-blue.svg)
 ![Language](https://img.shields.io/badge/Language-Assembly-orange.svg)
